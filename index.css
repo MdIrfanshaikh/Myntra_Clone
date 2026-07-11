@@ -106,6 +106,26 @@ header{
     width: 80%;
 }
 
+.offer_container{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.offer_item{
+     height: 150px; 
+}
+
+.wow_container{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.wow_item{
+    height: 150px;
+}
+
 .category_items{
     
     display: flex;
