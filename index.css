@@ -103,37 +103,42 @@ header{
 
 .heading_img{
     margin: 0 10% ;
+    padding: 5px 0;
     width: 80%;
 }
 
 .offer_container{
-    
+    margin-left: 5%;
+    width: 90%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
-.offer_item{
-     height: 150px; 
+.Offer_item{
+    width: 230px; 
 }
 
 .wow_container{
-    
+    margin-left: 5%;
+    width: 90%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    flex-shrink: 0;
 }
 .wow_item{
-    height: 150px;
+    width: 230px;
 }
 
 .category_items{
-    
+    margin-left: 5%;
+    width: 90%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
 .sale_item{
-    height: 150px;
+    width: 200px;
 }
 .footer_container{
     display: flex;
